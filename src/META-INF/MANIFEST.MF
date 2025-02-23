@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 18
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Main-Class: com.javarush.games.racer.RacerGame
